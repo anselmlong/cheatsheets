@@ -1,6 +1,10 @@
 # Anselm's Cheatsheets
 
+> Star the repo if this helped you!
+
 A compilation of cheatsheets that I've made over the years, some inspired by others, but most have been typed out in LaTex by me. Feel free to use them, star the repo if it helps!
 Source zips are included if you want to edit the `.tex` files directly.
 
 Disclaimer: Do your own due diligence, nothing in here is absolutely ground truth. Content may change, and do add to my cheatsheets if needed!
+
+
